@@ -1,0 +1,9 @@
+# NOTE: All data in this file is FICTIONAL, prepared for portfolio
+# demonstration only. Names, asset IDs, dates, and readings are invented.
+# No real employer, real equipment serial, or real maintenance record is
+# represented. Use these templates with your own real data in production.
+breakdown_id,asset_id,breakdown_date,breakdown_time,detection_method,failure_mode,failure_cause,affected_production_hours,corrective_action,parts_used,labor_hours,downtime_hours,reported_by,investigated_by,notes
+BRK-001,ELE-003,2025-11-15,09:30,Operator,Trip,Overload,Bearing seizure,Bearing replacement,BRG-001 x1,4.5,6.0,Operator-1,Tech-A,Investigated; root cause confirmed
+BRK-002,ELE-002,2025-12-20,14:00,Monitoring,Over-temperature,Low oil level,Oil top-up,OIL-25L x1,2.0,2.5,Monitoring-System,Tech-B,Routine
+BRK-003,ELE-001,2026-01-05,08:15,PM-Inspection,Hot-spot on IR scan,Loose connection,Torqued and cleaned,none,1.5,0.5,Tech-A,Tech-A,Found during thermographic PM
+BRK-004,ELE-004,2026-02-10,11:00,Operator,No-start,Blown fuse,Fuse replacement,FUSE-001 x3,1.0,1.5,Operator-2,Tech-C,Routine

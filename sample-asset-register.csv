@@ -1,0 +1,10 @@
+# NOTE: All data in this file is FICTIONAL, prepared for portfolio
+# demonstration only. Names, asset IDs, dates, and readings are invented.
+# No real employer, real equipment serial, or real maintenance record is
+# represented. Use these templates with your own real data in production.
+asset_id,asset_name,asset_class,plant_area,location,manufacturer,model,serial_number,install_date,rated_voltage,rated_current,rated_power,criticality,status,notes
+ELE-001,Switchgear-Main,Switchgear,Building-3,HV-Room,FictionalElec,FE-12,FE12-001,2020-06-01,400 V,400 A,200 kVA,Critical,Active,Main LV switchgear
+ELE-002,Transformer-T1,Transformer,Building-3,Transformer-Pad,FictionalTransformer,FT-500,FT500-001,2020-06-01,33 kV / 400 V,8.7 A / 720 A,500 kVA,Critical,Active,Step-down transformer
+ELE-003,Motor-M1,Motor,Plant-A,Line-1,FictionalMotor,FM-30,FM30-001,2021-01-10,400 V,42 A,22 kW,High,Active,Process motor
+ELE-004,VFD-V1,Drive,Plant-A,Control-Panel-1,FictionalDrive,FD-30,FD30-001,2021-01-10,400 V,42 A,22 kW,High,Active,Variable frequency drive for M1
+ELE-005,Panel-P1,Panel,Building-3,Substation-1,FictionalElec,FE-PNL,FE-PNL-001,2020-06-01,400 V,200 A,150 kVA,Medium,Active,Sub-distribution panel

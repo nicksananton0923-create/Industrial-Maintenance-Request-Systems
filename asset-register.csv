@@ -1,0 +1,5 @@
+# NOTE: All data in this file is FICTIONAL, prepared for portfolio
+# demonstration only. Names, asset IDs, dates, and readings are invented.
+# No real employer, real equipment serial, or real maintenance record is
+# represented. Use these templates with your own real data in production.
+asset_id,asset_name,asset_class,plant_area,location,manufacturer,model,serial_number,install_date,rated_voltage,rated_current,rated_power,criticality,status,notes

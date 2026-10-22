@@ -1,0 +1,5 @@
+# NOTE: All data in this file is FICTIONAL, prepared for portfolio
+# demonstration only. Names, asset IDs, dates, and readings are invented.
+# No real employer, real equipment serial, or real maintenance record is
+# represented. Use these templates with your own real data in production.
+asset_id,inspection_date,inspector_id,inspection_type,item_id,item_description,result,measurement_value,measurement_unit,normal_range,action_on_fail,notes
